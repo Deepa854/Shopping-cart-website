@@ -5,10 +5,13 @@
 # Technical Specifications:
 Frontend Framework: ReactJS 
 Styling: Tailwind 
+
+
 Data Source:
 Option 1: Create a local JSON file containing product data (product name, image, price, description, etc.)
 Option 2: Utilize an open-source API to fetch product data dynamically
 Detailed Features:
+
 Product Listing Page:
 Display at least 6-10 products using a grid layout
 Each product card should include:
