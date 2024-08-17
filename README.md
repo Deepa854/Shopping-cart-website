@@ -7,7 +7,10 @@
  ReactJS ,Tailwind, javadcript 
 
 ## Project setup
-   1]Create a New React Project:
+   1]Create a New React P![Screenshot (77)](https://github.com/user-attachments/assets/aa409fa5-3567-4fcc-af2e-f5ad7bae2fcf)
+![Screenshot (76)](https://github.com/user-attachments/assets/b573910d-ecf8-4b70-8ec0-18605d05f62d)
+![Screenshot (75)](https://github.com/user-attachments/assets/c35338ef-108b-4193-acba-8f93c7da9ef9)
+roject:
       npx create-react-app ecommerce-cart
       cd ecommerce-cart
       
